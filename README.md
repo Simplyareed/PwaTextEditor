@@ -26,6 +26,13 @@ To access the Progressive Web Applications (PWA) Text Editor in the browser,  in
 
 
 
+
+
+https://github.com/Simplyareed/PwaTextEditor/assets/157844688/e1d2c903-f358-4680-8492-0fc7274a98c0
+
+
+
+
 ## Features
 Offline capability using service workers
 
