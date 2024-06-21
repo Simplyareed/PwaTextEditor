@@ -22,6 +22,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Usage
 To access the Progressive Web Applications (PWA) Text Editor in the browser,  install the application to your local machine by clicking the Install button located in the application.
 
+![Screenshot_21-6-2024_164548_pwatexteditor-7tz6 onrender com](https://github.com/Simplyareed/PwaTextEditor/assets/157844688/21e623ae-ae33-4d58-ac74-eaaed5f5d114)
+
+
 
 ## Features
 Offline capability using service workers
